@@ -17,7 +17,7 @@
 
   <div id="badges">
     <a href="https://vk.com/nilandvi" target="_blank">
-      <img src="https://shkola1troiczkopechorsk-r11.gosweb.gosuslugi.ru/netcat_files/0/47/izobrazhenie_2023_01_16_135046226.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
         <a href="https://t.me/nilandvi" target="_blank">
       <img src="https://medvedextreme.ru/contacts/tg.png" width="40" height="40" alt="TG Badge"/>
