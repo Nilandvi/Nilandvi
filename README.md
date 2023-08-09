@@ -20,7 +20,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
         <a href="https://t.me/nilandvi" target="_blank">
-      <img src="https://medvedextreme.ru/contacts/tg.png" width="40" height="40" alt="TG Badge"/>
+      <img src="https://smacont.ru/media/Telegram-Logo.png" width="40" height="40" alt="TG Badge"/>
     </a>
   </div>
 
